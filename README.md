@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1>Hi, I'm Byron! 
+<h2>🖥️ Computer & Information Technology Projects 🖥️</h2>
 
-<!--
-**Byron1z/Byron1z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- <b> Active Directory Home Lab </b>
 
-Here are some ideas to get you started:
+- <b>PowerShell</b>
+  
+- <b>C# (.NET Desktop Applications)</b>
+  
+- <b>Python</b>
+  
+- <b> Certifications </b>
+- [Google IT Support Professional]()
+- [Google Cybersecurity]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> 🤳 Contact Me:</h2>
