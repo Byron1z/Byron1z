@@ -10,7 +10,7 @@
 - <b>Python</b>
   
 - <b> Certifications </b>
-- [Google IT Support Professional]()
-- [Google Cybersecurity]()
+   - [Google IT Support Professional](https://www.coursera.org/account/accomplishments/specialization/6ZP2EEGHALZE)
+   - [Google Cybersecurity](https://www.coursera.org/account/accomplishments/specialization/R0JR8KWKJS9J)
 
 <h2> 🤳 Contact Me:</h2>
