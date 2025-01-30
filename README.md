@@ -2,6 +2,7 @@
 <h2>🖥️ Computer & Information Technology Projects 🖥️</h2>
 
 - <b> Active Directory Home Lab </b>
+- <b> Creating a Ticketing System for Help Desk </b>
 - <b>PowerShell</b>
 - <b>C# (.NET Desktop Applications)</b>
 - <b>Python</b>
