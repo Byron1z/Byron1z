@@ -1,4 +1,4 @@
-<h1>Hi, I'm Byron!, An IT Professional 
+<h1>Hi, I'm Byron!, an IT Professional 
 <h2>🖥️ Computer & Information Technology Projects 🖥️</h2>
 
 - <b> Active Directory Home Lab </b>
