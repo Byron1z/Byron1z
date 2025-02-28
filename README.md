@@ -2,7 +2,7 @@
 <h2>🖥️ Computer & Information Technology Projects 🖥️</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation]()
+  - [osTicket: Prerequisites and Installation](https://github.com/Byron1z/osticket-prereqs-B1z)
   - [osTicket: Post-Installation Configuration]()
   - [osTicket: Ticket Lifecycle Examples]()
 - <b> Active Directory Home Lab </b>
