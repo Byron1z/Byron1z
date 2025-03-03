@@ -7,6 +7,8 @@
   - [osTicket: Ticket Lifecycle Examples]()
 - <b> Active Directory Home Lab </b>
   - [Configuring On-Premises Active Directory within Azure VMs](https://github.com/Byron1z/configure-ad-B1z)
+- <b>Virtual Private Network (VPN)</b>
+  - [VPN Setup in Azure Virtual Machine]()
 - <b>Creating a VM using Hyper-V on Windows 10</b>
 - <b>Certifications</b>
   - [Google IT Support Professional](https://www.coursera.org/account/accomplishments/specialization/6ZP2EEGHALZE)
