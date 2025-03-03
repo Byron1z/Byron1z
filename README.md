@@ -6,6 +6,7 @@
   - [osTicket: Post-Installation Configuration]()
   - [osTicket: Ticket Lifecycle Examples]()
 - <b> Active Directory Home Lab </b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Byron1z/configure-ad-B1z/tree/main)
 - <b>Creating a VM using Hyper-V on Windows 10</b>
 - <b>Certifications</b>
   - [Google IT Support Professional](https://www.coursera.org/account/accomplishments/specialization/6ZP2EEGHALZE)
