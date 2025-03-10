@@ -7,8 +7,8 @@
   - [osTicket: Ticket Lifecycle Examples]()
 - <b> Active Directory Home Lab </b>
   - [Configuring On-Premises Active Directory within Azure VMs](https://github.com/Byron1z/configure-ad-B1z)
-- <b> Microsoft Azure Networking</b>
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols]()
+- <b>Networking in Microsoft Azure</b>
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark]()
 - <b>Virtual Private Network (VPN)</b>
   - [VPN Setup in Azure VM](https://github.com/Byron1z/setup-vpn-B1z)
 - <b>Creating a VM using Hyper-V on Windows 10</b>
