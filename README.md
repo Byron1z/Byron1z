@@ -1,4 +1,4 @@
-<h1>Hi, I'm Byron!, an IT Professional👨‍💻  
+<h1>Hi, I'm Byron!, <a href="https://www.linkedin.com/in/byron-lacanal-jr/">IT Professional</a>👨‍💻</h1>
 <h2>🖥️ Computer & Information Technology Projects 🖥️</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
