@@ -4,7 +4,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Byron1z/osticket-prereqs-B1z)
   - [osTicket: Post-Installation Configuration](https://github.com/Byron1z/post-install-config-B1z)
-  - [osTicket: Ticket Lifecycle Examples]()
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/Byron1z/ticket-lifecycle-B1z)
 - <b> Active Directory Home Lab </b>
   - [Configuring On-Premises Active Directory within Azure VMs](https://github.com/Byron1z/configure-ad-B1z)
 - <b>Networking in Microsoft Azure</b>
