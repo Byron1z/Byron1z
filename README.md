@@ -17,7 +17,7 @@
   - [Google IT Support Professional](https://www.coursera.org/account/accomplishments/specialization/6ZP2EEGHALZE)
   - [Google Cybersecurity](https://www.coursera.org/account/accomplishments/specialization/R0JR8KWKJS9J)
 
-<h2> 🤳 Connect with me:</h2>
+<h2>🤳 Connect with me:</h2>
 
 [<img align="left" alt="LinkedIn" width="64px" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" />][linkedin] 
 
