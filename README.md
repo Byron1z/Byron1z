@@ -8,6 +8,7 @@
 - <b>Active Directory Home Lab</b>
   - [Configuring On-Premises Active Directory within Azure VMs](https://github.com/Byron1z/configure-ad-B1z)
   - [Manage User Accounts in Active Directory within Azure VMs](https://github.com/Byron1z/managing-ad-B1z)
+  - [Network File Shares and Permissions utilizing Active Directory](https://github.com/Byron1z/network-file-shares-and-permissions-B1z)
 - <b>Networking in Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](https://github.com/Byron1z/azure-network-protocols-B1z)
 - <b>Virtual Private Network (VPN)</b>
