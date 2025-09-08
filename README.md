@@ -6,7 +6,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/Byron1z/post-install-config-B1z)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Byron1z/ticket-lifecycle-B1z)
 - <b>Active Directory Home Lab</b>
-  - [Configuring On-Premises Active Directory within Azure VMs](https://github.com/Byron1z/configure-ad-B1z)
+  - [Configuring (On-Premises) Active Directory within Azure VMs](https://github.com/Byron1z/configure-ad-B1z)
   - [Manage User Accounts in Active Directory within Azure VMs](https://github.com/Byron1z/managing-ad-B1z)
   - [Network File Shares and Permissions utilizing Active Directory](https://github.com/Byron1z/network-file-shares-and-permissions-B1z)
 - <b>Networking in Microsoft Azure</b>
