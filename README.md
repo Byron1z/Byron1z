@@ -11,6 +11,7 @@
   - [Network File Shares and Permissions utilizing Active Directory](https://github.com/Byron1z/network-file-shares-and-permissions-B1z)
 - <b>Networking in Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols using Wireshark](https://github.com/Byron1z/azure-network-protocols-B1z)
+  - [Learning DNS utilizing Active Directory setup](https://github.com/Byron1z/learning-dns-B1z)
 - <b>Virtual Private Network (VPN)</b>
   - [VPN Setup in Azure VM](https://github.com/Byron1z/setup-vpn-B1z)
 - <b>Creating a VM using Hyper-V on Windows 10 Pro</b>
