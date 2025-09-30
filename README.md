@@ -15,6 +15,7 @@
 - <b>Virtual Private Network (VPN)</b>
   - [VPN Setup in Azure VM](https://github.com/Byron1z/setup-vpn-B1z)
 - <b>Creating a VM using Hyper-V on Windows 10 Pro</b>
+  - [Installing Hyper-V VM in Windows 10 Pro](https://github.com/Byron1z/Hyper-V-Windows-10-Pro-B1z)
 
 <h2>🤳 Connect with me:</h2>
 
