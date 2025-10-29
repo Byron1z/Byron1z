@@ -14,7 +14,7 @@
   - [Learning DNS utilizing Active Directory setup](https://github.com/Byron1z/learning-dns-B1z)
 - <b>VPN (Virtual Private Network)</b>
   - [VPN Setup in Azure VM](https://github.com/Byron1z/setup-vpn-B1z)
-- <b>Setup a VM using Hyper-V on Windows 10 Pro</b>
+- <b>Setup a Hyper-V VM on Windows 10 Pro</b>
   - [Installing Hyper-V VM in Windows 10 Pro](https://github.com/Byron1z/Hyper-V-Windows-10-Pro-B1z)
 
 <h2>🤳 Connect with me:</h2>
