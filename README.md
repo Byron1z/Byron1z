@@ -1,5 +1,5 @@
 <h1>Hi, I'm Byron, an <a href="https://www.linkedin.com/in/byron-lacanal-jr/">IT Professional</a>☺</h1>
-Here are some of my entry-level Tech Projects I've worked on.
+Here are some of my entry-level Tech Projects I've worked on
 <h2>🖥️ Computer & Information Technology Projects 🖥️ :</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
