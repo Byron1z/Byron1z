@@ -11,7 +11,7 @@ Here are some of my Tech Projects I've been working on.
   - [Manage User Accounts in Active Directory within Azure VMs](https://github.com/Byron1z/managing-ad-B1z)
   - [Network File Shares and Permissions utilizing Active Directory](https://github.com/Byron1z/network-file-shares-and-permissions-B1z)
 - <b>Networking in Microsoft Azure</b>
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols using Wireshark](https://github.com/Byron1z/azure-network-protocols-B1z)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Byron1z/azure-network-protocols-B1z)
   - [Learning DNS utilizing Active Directory setup](https://github.com/Byron1z/learning-dns-B1z)
 - <b>VPN (Virtual Private Network)</b>
   - [VPN Setup in Azure VM](https://github.com/Byron1z/setup-vpn-B1z)
